@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1574240943145,
+  "timestamp": 1574304515088,
   "index": "https://johanlu4st.github.io/bitcoin-order-app/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://johanlu4st.github.io/bitcoin-order-app/favicon.ico",
         "https://johanlu4st.github.io/bitcoin-order-app/index.html",
-        "https://johanlu4st.github.io/bitcoin-order-app/main-es2015.7b2612ce661b10e3b1a2.js",
-        "https://johanlu4st.github.io/bitcoin-order-app/main-es5.7b2612ce661b10e3b1a2.js",
+        "https://johanlu4st.github.io/bitcoin-order-app/main-es2015.8a70205ca240a6f2cb53.js",
+        "https://johanlu4st.github.io/bitcoin-order-app/main-es5.8a70205ca240a6f2cb53.js",
         "https://johanlu4st.github.io/bitcoin-order-app/manifest.webmanifest",
         "https://johanlu4st.github.io/bitcoin-order-app/polyfills-es2015.d3e61f0dd2b58e518eca.js",
         "https://johanlu4st.github.io/bitcoin-order-app/polyfills-es5.517f1d5415025b3e9b1a.js",
@@ -67,9 +67,9 @@
     "https://johanlu4st.github.io/bitcoin-order-app/assets/pixel.gif": "87bb3a5dcd68684dee2e401dc8ed016eb6bea75f",
     "https://johanlu4st.github.io/bitcoin-order-app/back6.b820a7afbeaf4e4c5246.jpg": "bb1d88aec46a62d77cf358868f406f68399e7b8f",
     "https://johanlu4st.github.io/bitcoin-order-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://johanlu4st.github.io/bitcoin-order-app/index.html": "fba4dd4383113e92096e6176acf109bec1fbb913",
-    "https://johanlu4st.github.io/bitcoin-order-app/main-es2015.7b2612ce661b10e3b1a2.js": "55b6b3e432fbeee57ebd5ea16e89739c6be4012a",
-    "https://johanlu4st.github.io/bitcoin-order-app/main-es5.7b2612ce661b10e3b1a2.js": "00cd5655d5d063b12e0ed745198b30d38fcf5d17",
+    "https://johanlu4st.github.io/bitcoin-order-app/index.html": "440695b86efca45d0b47ddd281c7044c79636e81",
+    "https://johanlu4st.github.io/bitcoin-order-app/main-es2015.8a70205ca240a6f2cb53.js": "e01be80a76ee7c941b60f0446aea399b4cd0e22f",
+    "https://johanlu4st.github.io/bitcoin-order-app/main-es5.8a70205ca240a6f2cb53.js": "6196238d2907f37699169c7b3629cb82c01ce6da",
     "https://johanlu4st.github.io/bitcoin-order-app/manifest.webmanifest": "da1eee6ec517d6398dc60e53058e5fec8304e10f",
     "https://johanlu4st.github.io/bitcoin-order-app/polyfills-es2015.d3e61f0dd2b58e518eca.js": "e2f28c3743afd2899e140ad831df9675c233c02b",
     "https://johanlu4st.github.io/bitcoin-order-app/polyfills-es5.517f1d5415025b3e9b1a.js": "bc55c457c97924a880c8c5bee5337b8d12a7d7d8",
